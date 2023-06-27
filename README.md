@@ -9,6 +9,7 @@ We were able to learn about different types of sensors , motors and basics of mi
 C language was used to programme all the sensors and motors.
 
 Individual Contribution :
+
      1. Programming a 4x4 keypad to get user inputs.
      2. Programming an IR sensor to identify a distance.
      3. Designing a power supply unit.
