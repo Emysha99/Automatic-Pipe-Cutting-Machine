@@ -1,12 +1,11 @@
 ICT Project - Automatic Pipe Cutting Machine
 --------------------------------------------
-This is our level 1 hardware project which was based on AtMega-32 Micro-controller.
 
-This project aimed to design and develop an automated pipe cutting machine to measure and cut PVC pipes.This machine improves efficiency and effectiveness of cutting process and enhance safety level of the operator by reducing human interventions.
+The objective of this project was to design and develop an automated pipe cutting machine capable of accurately measuring and cutting PVC pipes. The primary goal was to enhance the efficiency and effectiveness of the cutting process while improving the safety of the operator by minimizing human interventions. 
 
-We were able to learn about different types of sensors , motors and basics of micro-controller through this project.
+Throughout the project, we gained valuable knowledge about various types of sensors, motors, and the fundamentals of microcontrollers. We also acquired skills in reading datasheets and designing printed circuit boards (PCB) from this project, 
 
-C language was used to programme all the sensors and motors.
+The programming aspect of the project was conducted using the C language to control the sensors and motors.
 
 Individual Contribution :
 
